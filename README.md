@@ -1,5 +1,5 @@
-# SQL-Project
-This is where I will be documenting my SQL project
+# My First Repository Project
+This is where I will be documenting my Learnings
 # LITA-PROJECT
 
 [Project Overview](#project-overview)
